@@ -2,8 +2,8 @@
 
 This repository is forked from official Angular 2 quickstart https://github.com/angular/quickstart
 
-https://github.com/nodesense/ngapp has small modifications and additional configurations needed for Angular 2 Workshop 
-done by NodeSen.se
+https://github.com/sushil-singh/Angular2_quickStart has small modifications and additional configurations needed for Angular 2 Workshop 
+
  
 This repository has support for both SystemJS Module loader, and Webpack as documented in https://angular.io/docs/ts/latest/guide/webpack.html website. 
  
@@ -13,7 +13,6 @@ Right now, SystemJS, lite-server work can be done by writing Angular 2 applicati
 
 For webpack, the starter code is in /src folder
 
-*eventually we shall have single repository between two sources by end of December 2016*
 
 ## Prerequisites
 
@@ -30,7 +29,7 @@ Older versions produce errors.
 
 Clone this repo into new project folder (e.g., `my-proj`).
 ```bash
-git clone  https://github.com/nodesense/ngapp  my-proj
+git clone  https://github.com/sushil-singh/Angular2_quickStart  my-proj
 cd my-proj
 ```
    
